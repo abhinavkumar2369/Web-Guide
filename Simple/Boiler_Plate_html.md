@@ -3,7 +3,7 @@
 <!doctype html>
 <html lang="en">
   
-  <head>
+<head>
       <meta charset="UTF-8" />
       <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
 
@@ -26,6 +26,12 @@
       <meta property="og:url" content="https://abhinavkumar2369.github.io/Easy-Access/">
       <meta property="og:type" content="website">
       <meta property="og:site_name" content="Easy Access">
-      
-    </head>
+</head>
+
+<body>
+      <div id="root"></div>
+      <script type="module" src="/src/main.jsx"></script>
+</body>
+
+</html>
 ```
